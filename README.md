@@ -56,6 +56,8 @@ Website ini menyediakan informasi lengkap tentang rumah adat, jadwal kegiatan bu
 ---
 
 ## 🗂️ Struktur Project
+
+```
 📁 Website-Rumah-Adat-Budaya-Samarinda/
 │
 ├── 📁 admin/
@@ -85,6 +87,7 @@ Website ini menyediakan informasi lengkap tentang rumah adat, jadwal kegiatan bu
 ├── footer.php                 ← Footer (shared)
 ├── koneksi.php                ← Koneksi Database
 └── Style.css                  ← Main stylesheet
+```
 
 ---
 
