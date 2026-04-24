@@ -164,24 +164,11 @@ Password : admin123
 
 ---
 
-## 👥 Pembagian Tugas Tim
-
-| Nama | Tugas |
-|------|-------|
-| **Nabil Daffa Athalasyah** | UI/UX Design, Frontend (Beranda, Tentang Kami, Galeri), Integrasi Database |
-| **Moreno Ferdinand Farhantino** | Backend PHP, Sistem Reservasi & Dashboard User |
-| **Danial Hirzan Akbary** | Dashboard Admin, Manajemen Kegiatan & Galeri |
-| **Reswara Ganendra Rashi Dewa** | Halaman Ulasan, Kontak, Fasilitas, Testing & Dokumentasi |
-
----
-
 ## 📄 Lisensi
 
-Project ini dibuat untuk memenuhi tugas **Project Akhir Mata Kuliah Pemrograman Berbasis Web** — Universitas Mulawarman 2026.
+Project ini dibuat untuk memenuhi tugas **Project Akhir Praktikum Mata Kuliah Pemrograman Berbasis Web** — Universitas Mulawarman 2026.
 
 ---
 
-*Dibuat dengan ❤️ oleh **Team The Kuncir** (Kelompok 6) — Sistem Informasi, Kelas C, 2024*
+*Dibuat oleh **Team The Kuncir** (Kelompok 6) — Sistem Informasi, Kelas C, 2024*
 ---
-
-## 🗂️ Struktur Project
