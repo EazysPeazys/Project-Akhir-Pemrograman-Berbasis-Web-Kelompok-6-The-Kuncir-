@@ -108,15 +108,15 @@ Website ini menyediakan informasi lengkap tentang rumah adat, jadwal kegiatan bu
 
 | Beranda | Tentang Kami | Kegiatan |
 |:-------:|:------------:|:--------:|
-| ![Beranda](assets/docs/beranda.png) | ![Tentang Kami](assets/docs/tentang.png) | ![Kegiatan](assets/docs/kegiatan.png) |
+| ![Beranda](https://github.com/EazysPeazys/Project-Akhir-Pemrograman-Berbasis-Web-Kelompok-6-The-Kuncir-/blob/88470659f76596ee98f53075e11b84b5f0cdb3e3/Beranda.png) | ![Tentang Kami](https://github.com/EazysPeazys/Project-Akhir-Pemrograman-Berbasis-Web-Kelompok-6-The-Kuncir-/blob/88470659f76596ee98f53075e11b84b5f0cdb3e3/Tentang%20Kami.png) | ![Kegiatan](https://github.com/EazysPeazys/Project-Akhir-Pemrograman-Berbasis-Web-Kelompok-6-The-Kuncir-/blob/88470659f76596ee98f53075e11b84b5f0cdb3e3/Kegiatan.png) |
 
 | Galeri | Fasilitas | Ulasan |
 |:------:|:---------:|:------:|
-| ![Galeri](assets/docs/galeri.png) | ![Fasilitas](assets/docs/fasilitas.png) | ![Ulasan](assets/docs/ulasan.png) |
+| ![Galeri](https://github.com/EazysPeazys/Project-Akhir-Pemrograman-Berbasis-Web-Kelompok-6-The-Kuncir-/blob/88470659f76596ee98f53075e11b84b5f0cdb3e3/Galeri.png) | ![Fasilitas](https://github.com/EazysPeazys/Project-Akhir-Pemrograman-Berbasis-Web-Kelompok-6-The-Kuncir-/blob/88470659f76596ee98f53075e11b84b5f0cdb3e3/Fasilitas.png) | ![Ulasan](https://github.com/EazysPeazys/Project-Akhir-Pemrograman-Berbasis-Web-Kelompok-6-The-Kuncir-/blob/88470659f76596ee98f53075e11b84b5f0cdb3e3/Ulasan.png) |
 
 | Kontak | Dashboard User | Dashboard Admin |
 |:------:|:--------------:|:---------------:|
-| ![Kontak](assets/docs/kontak.png) | ![Dashboard User](assets/docs/dashboard_user.png) | ![Dashboard Admin](assets/docs/dashboard_admin.png) |
+| ![Kontak](https://github.com/EazysPeazys/Project-Akhir-Pemrograman-Berbasis-Web-Kelompok-6-The-Kuncir-/blob/88470659f76596ee98f53075e11b84b5f0cdb3e3/Kontak.png) | ![Dashboard User](https://github.com/EazysPeazys/Project-Akhir-Pemrograman-Berbasis-Web-Kelompok-6-The-Kuncir-/blob/88470659f76596ee98f53075e11b84b5f0cdb3e3/Dashboard%20User.png) | ![Dashboard Admin](https://github.com/EazysPeazys/Project-Akhir-Pemrograman-Berbasis-Web-Kelompok-6-The-Kuncir-/blob/88470659f76596ee98f53075e11b84b5f0cdb3e3/Dashboard%20Admin.png) |
 
 ---
 
