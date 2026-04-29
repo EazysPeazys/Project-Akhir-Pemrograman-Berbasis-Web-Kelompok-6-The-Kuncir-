@@ -47,7 +47,7 @@ Website ini menyediakan informasi lengkap tentang rumah adat, jadwal kegiatan bu
 | **PHP Native** | Backend & server-side logic |
 | **MySQL** | Database management |
 | **HTML5** | Struktur halaman web |
-| **CSS3** | Styling & animasi UI |
+| **CSS** | Styling & animasi UI |
 | **JavaScript (Vanilla)** | Interaktivitas & DOM manipulation |
 | **Font Awesome 6.5** | Icon library |
 | **Google Fonts** | Typography (Cinzel, Crimson Pro, Nunito) |
