@@ -163,7 +163,7 @@ Password : admin123
 
 ## 🌐 Live Demo
 
-> 🔗 **[rumahadatbudayasamarinda.great-site.net](https://rumahadatsamarinda.wuaze.com/)**
+> 🔗 **[https://rumahadatsamarinda.wuaze.com/](https://rumahadatsamarinda.wuaze.com/)**
 
 ---
 
